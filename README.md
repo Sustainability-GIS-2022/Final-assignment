@@ -11,7 +11,7 @@ Once you are finished with the final assignment, edit this readme and add "x" to
 
 ## Instructions
 
-Read the final assignment instructions from the course webpages [https://sustainability-gis.readthedocs.io](https://sustainability-gis.readthedocs.io/en/latest/lessons/final-assignment/final-assignment.html). Remember to write readable code, and to provide adequate documentation using inline comments and markdown. Organize all your documents into this repository and add your codes and written parts to the [final_assignment.ipynb](final_assignment.ipynb) Notebook. In sum, anyone who downloads this repository should be able to **read your code and documentation** and understand what is going on, and **run your code** in order to reproduce the same results! 
+Read the final assignment instructions from the course [webpage](https://sustainability-gis.readthedocs.io/en/latest/lessons/final-assignment/final-assignment.html). Remember to write readable code, and to provide adequate documentation using inline comments and markdown. Organize all your documents into this repository and add your codes and written parts to the [final_assignment.ipynb](final_assignment.ipynb) Notebook. In sum, anyone who downloads this repository should be able to **read your code and documentation** and understand what is going on, and **run your code** in order to reproduce the same results! 
 
 **Note 1:** You can upload your poster as a Powerpoint or as a PDF file to this same repository if the size is less than 100 MB. Hint: you can upload files directly via browser by i) pressing the `Add file` -button and then ii) `Upload files` -button on the Github.
 
